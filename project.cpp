@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
     glutInitDisplayMode(GLUT_RGB | GLUT_DOUBLE);
     glutInitWindowPosition(0, 0);
     glutInitWindowSize(1400, 680);
-    glutCreateWindow("Airport Scenario - Refactored");
+    glutCreateWindow("Airport Scenario");
 
     initScene();
 
